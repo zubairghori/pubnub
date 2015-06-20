@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_PubNubChat : NSObject
+@interface PodsDummy_Pods_PubnubChat : NSObject
 @end
-@implementation PodsDummy_Pods_PubNubChat
+@implementation PodsDummy_Pods_PubnubChat
 @end

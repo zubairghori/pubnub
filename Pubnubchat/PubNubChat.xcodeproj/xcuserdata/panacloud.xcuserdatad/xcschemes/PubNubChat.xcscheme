@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DCF07F21B35532B006B780B"
-               BuildableName = "PubNubChat.app"
-               BlueprintName = "PubNubChat"
-               ReferencedContainer = "container:PubNubChat.xcodeproj">
+               BlueprintIdentifier = "2DCF09BD1B356144006B780B"
+               BuildableName = "PubnubChat.app"
+               BlueprintName = "PubnubChat"
+               ReferencedContainer = "container:PubnubChat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DCF08071B35532C006B780B"
-               BuildableName = "PubNubChatTests.xctest"
-               BlueprintName = "PubNubChatTests"
-               ReferencedContainer = "container:PubNubChat.xcodeproj">
+               BlueprintIdentifier = "2DCF09D21B356144006B780B"
+               BuildableName = "PubnubChatTests.xctest"
+               BlueprintName = "PubnubChatTests"
+               ReferencedContainer = "container:PubnubChat.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2DCF08071B35532C006B780B"
-               BuildableName = "PubNubChatTests.xctest"
-               BlueprintName = "PubNubChatTests"
-               ReferencedContainer = "container:PubNubChat.xcodeproj">
+               BlueprintIdentifier = "2DCF09D21B356144006B780B"
+               BuildableName = "PubnubChatTests.xctest"
+               BlueprintName = "PubnubChatTests"
+               ReferencedContainer = "container:PubnubChat.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DCF07F21B35532B006B780B"
-            BuildableName = "PubNubChat.app"
-            BlueprintName = "PubNubChat"
-            ReferencedContainer = "container:PubNubChat.xcodeproj">
+            BlueprintIdentifier = "2DCF09BD1B356144006B780B"
+            BuildableName = "PubnubChat.app"
+            BlueprintName = "PubnubChat"
+            ReferencedContainer = "container:PubnubChat.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DCF07F21B35532B006B780B"
-            BuildableName = "PubNubChat.app"
-            BlueprintName = "PubNubChat"
-            ReferencedContainer = "container:PubNubChat.xcodeproj">
+            BlueprintIdentifier = "2DCF09BD1B356144006B780B"
+            BuildableName = "PubnubChat.app"
+            BlueprintName = "PubnubChat"
+            ReferencedContainer = "container:PubnubChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2DCF07F21B35532B006B780B"
-            BuildableName = "PubNubChat.app"
-            BlueprintName = "PubNubChat"
-            ReferencedContainer = "container:PubNubChat.xcodeproj">
+            BlueprintIdentifier = "2DCF09BD1B356144006B780B"
+            BuildableName = "PubnubChat.app"
+            BlueprintName = "PubnubChat"
+            ReferencedContainer = "container:PubnubChat.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

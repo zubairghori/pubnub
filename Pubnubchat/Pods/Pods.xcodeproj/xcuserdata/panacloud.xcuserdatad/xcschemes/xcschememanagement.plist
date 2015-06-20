@@ -4,17 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-PubNubChat-PubNub-PubNub.xcscheme</key>
+		<key>Pods-PubnubChat-PubNub-PubNub.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-PubNubChat-PubNub.xcscheme</key>
+		<key>Pods-PubnubChat-PubNub.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-PubNubChat.xcscheme</key>
+		<key>Pods-PubnubChat.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -22,17 +22,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2A00D26DDCD5244B9805B120</key>
+		<key>7F79EC195588BE16170EE9AE</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E2ECA4390124EE64BBAB4171</key>
+		<key>C23D1C7BB93F737DAEA4AC1E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E6E7D4505811C859B975B018</key>
+		<key>FC14981374F90BD5160C4D10</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:PubNubChat.xcodeproj">
+      location = "self:PubnubChat.xcodeproj">
    </FileRef>
 </Workspace>

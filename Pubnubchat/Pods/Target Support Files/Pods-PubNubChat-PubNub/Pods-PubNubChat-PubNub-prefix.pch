@@ -2,7 +2,7 @@
 #import <UIKit/UIKit.h>
 #endif
 
-#import "Pods-PubNubChat-environment.h"
+#import "Pods-PubnubChat-environment.h"
 //
 // Prefix header for all source files of the 'pubnub' target in the 'pubnub' project
 //

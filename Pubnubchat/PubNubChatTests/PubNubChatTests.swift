@@ -1,6 +1,6 @@
 //
-//  PubNubChatTests.swift
-//  PubNubChatTests
+//  PubnubChatTests.swift
+//  PubnubChatTests
 //
 //  Created by Panacloud on 20/06/2015.
 //  Copyright (c) 2015 Panacloud. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class PubNubChatTests: XCTestCase {
+class PubnubChatTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

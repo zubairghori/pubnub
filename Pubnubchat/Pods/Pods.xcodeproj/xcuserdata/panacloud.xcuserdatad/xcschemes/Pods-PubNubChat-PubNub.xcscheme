@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E6E7D4505811C859B975B018"
-               BuildableName = "libPods-PubNubChat-PubNub.a"
-               BlueprintName = "Pods-PubNubChat-PubNub"
+               BlueprintIdentifier = "C23D1C7BB93F737DAEA4AC1E"
+               BuildableName = "libPods-PubnubChat-PubNub.a"
+               BlueprintName = "Pods-PubnubChat-PubNub"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
