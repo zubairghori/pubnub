@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14B25" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Game" representedClassName="Game" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="levels" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Level" inverseName="game" inverseEntity="Level" syncable="YES"/>
+    </entity>
+    <entity name="Level" representedClassName="Level" syncable="YES">
+        <attribute name="number" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <relationship name="game" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Game" inverseName="levels" inverseEntity="Game" syncable="YES"/>
+        <relationship name="questions" optional="YES" toMany="YES" deletionRule="Nullify" ordered="YES" destinationEntity="Question" inverseName="level" inverseEntity="Question" syncable="YES"/>
+    </entity>
+    <entity name="Question" representedClassName="Question" syncable="YES">
+        <attribute name="question" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="level" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Level" inverseName="questions" inverseEntity="Level" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Level" positionX="-54" positionY="-9" width="128" height="88"/>
+        <element name="Game" positionX="-36" positionY="9" width="128" height="73"/>
+        <element name="Question" positionX="-18" positionY="27" width="128" height="73"/>
+    </elements>
+</model>
